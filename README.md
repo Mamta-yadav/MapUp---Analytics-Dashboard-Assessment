@@ -10,7 +10,7 @@ This Angular-based dashboard is designed to visualize key insights from an Elect
 
 ### Live Demo:
 You can view the live dashboard at:  
-[**Live Demo URL**]([https://YOUR_GITHUB_PAGES_URL](https://mamta-yadav.github.io/MapUp---Analytics-Dashboard-Assessment/))
+[**Live Demo URL**](https://mamta-yadav.github.io/MapUp---Analytics-Dashboard-Assessment/)
 
 ### Technologies Used:
 - **Angular**: Frontend framework.
