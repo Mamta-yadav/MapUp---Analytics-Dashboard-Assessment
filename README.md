@@ -10,7 +10,9 @@ This Angular-based dashboard is designed to visualize key insights from an Elect
 
 ### Live Demo:
 You can view the live dashboard at:  
-[**Live Demo URL**](https://map-up-analytics-dashboard-assessment-c5111bgx3.vercel.app/)
+[**StackBlitz Demo URL**](https://stackblitz.com/~/github.com/Mamta-yadav/MapUp---Analytics-Dashboard-Assessment)  
+Please note that running the `npm install` command may take some time, after which the preview will be available.  
+There was some issue during the deployment/hosting of the project, and I am currently looking into that issue.
 
 ### Technologies Used:
 - **Angular**: Frontend framework.
